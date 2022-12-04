@@ -1,0 +1,12 @@
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\DATASEG.exe
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\appsettings.Development.json
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\appsettings.json
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\DATASEG.dll
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\DATASEG.deps.json
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\DATASEG.runtimeconfig.json
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\DATASEG.pdb
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\Microsoft.OpenApi.dll
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\Newtonsoft.Json.dll
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Workspace Azure AsegDevs\DATASEG\DATASEG\obj\Release\net6.0\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
